@@ -16,6 +16,7 @@ I'm interested in Recognizing, Understanding, and Utilizing the "REAL WORLD SPAC
 - C++ development for high-performance applications (prefer C++14+).
 - Experienced with Unity (C#) for AR systems and 3D visualization (familiar with camera models, including intrinsic and extrinsic parameters).
 - FastAPI-based front-end/back-end development and deployment.
+- Flutter based mobile application development.
 
 ### Papers (links will be updated soon)
 - **Shrunken Reality**: Augmenting Real-World Contexts in Real-Time on Realistic Miniature Dioramas (SIGGRAPH ASIA 2024, Short Paper)

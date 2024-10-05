@@ -10,6 +10,7 @@ I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE
 - Pursuing easy-to-read code for everyone.
 - Middle Level Comprehension and Development about SLAM systems.
 - Pytorch for Deep Learning (better with ChatGPT)
+- Applications based on Mediapipe(Human Pose and Hand Pose Estimation)
 - Familiar OS: Windows(10+), Ubuntu(18.04+).
 - Python based fast development skill for quick and simple tests and visualizations. (prefer 3.6+)
 - C++ based development if faster performance is required. (prefer C++14+)

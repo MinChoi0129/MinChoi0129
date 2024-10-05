@@ -23,6 +23,8 @@ I'm interested in Recognizing, Understanding, and Utilizing the "REAL WORLD SPAC
 - **Finger-Pointing Interface for Human Gesture Recognition Based on Real-Time Geometric Comprehension** (SIGGRAPH ASIA 2024, Poster)
 - **SLAM-Based Illegal Parking Detection System** (SIGGRAPH ASIA 2024, Poster)
 
+### Working on...
+- Approaching Moving Object Segmentation(MOS) from a new perspective...
 
 ![](./profile-3d-contrib/profile-season.svg)
 

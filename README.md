@@ -8,7 +8,7 @@ I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE
 ### Tech Skills and Values
 - Pursuing clean environments using Docker and Anaconda for multiple CUDA, external library dependencies.
 - Pursuing easy-to-read code for everyone.
-- Middle Level Comprehension about SLAM systems.
+- Middle Level Comprehension and Development about SLAM systems.
 - Pytorch for Deep Learning (better with ChatGPT)
 - Familiar OS: Windows(10+), Ubuntu(18.04+).
 - Python based fast development skill for quick and simple tests and visualizations. (prefer 3.6+)
@@ -16,7 +16,7 @@ I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE
 - Unity(C#) based AR system, 3D Visualization. (familiar with camera model such as in/extrinsic parameters)
 - FastAPI based frontend/backend development with deployment.
 
-### Papers
+### Papers (links will be updated soon)
 - Shrunken Reality: Augmenting Real-World Contexts in Real-Time on Realistic Miniature Dioramas(SIGGRAPH ASIA 2024, Short Paper)
 - Finger-Pointing Interface for Human Gesture Recognition Based on Real-Time Geometric Comprehension(SIGGRAPH ASIA 2024, Poster)
 - SLAM-Based Illegal Parking Detection System(SIGGRAPH ASIA 2024, Poster)

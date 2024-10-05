@@ -1,13 +1,16 @@
 ### Contact
 Email : wjdchs0129@gnu.ac.kr / leeminjae0129@gmail.com
+Location : AI Lab(https://ailab.gnu.ac.kr/) @ Gyeongsang National University, Computer Science and Engineering.
 
 ### Introduction
-I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE", such as simultaneous localization and mapping (SLAM) and autonomous driving system. My dream just starts from these two movies: 'Iron Man' and 'Captain America: The Winter Soldier'. I hope the technologies in the movie come true.
+I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE", such as simultaneous localization and mapping (SLAM) and autonomous driving system. My dream just starts from these movies: 'Iron Man' and 'Captain America: The Winter Soldier' and 'Avengers'. I hope the technologies in the movie come true.
 
-### Tech Skills
-- Familiar with Windows(10+), Ubuntu OS(18.04+).
-- Pursuing clean environments using Docker and Anaconda for multiple CUDA, library dependencies.
+### Tech Skills and Values
+- Pursuing clean environments using Docker and Anaconda for multiple CUDA, external library dependencies.
 - Pursuing easy-to-read code for everyone.
+- Middle Level Comprehension about SLAM systems.
+- Pytorch for Deep Learning (better with ChatGPT)
+- Familiar OS: Windows(10+), Ubuntu(18.04+).
 - Python based fast development skill for quick and simple tests and visualizations. (prefer 3.6+)
 - C++ based development if faster performance is required. (prefer C++14+)
 - Unity(C#) based AR system, 3D Visualization. (familiar with camera model such as in/extrinsic parameters)

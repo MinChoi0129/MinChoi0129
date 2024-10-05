@@ -1,26 +1,27 @@
 ### Contact
-- Email : wjdchs0129@gnu.ac.kr / leeminjae0129@gmail.com
-- Location : AI Lab(https://ailab.gnu.ac.kr/) @ Gyeongsang National University, Computer Science and Engineering.
+- Email: wjdchs0129@gnu.ac.kr / leeminjae0129@gmail.com
+- Location: [AI Lab](https://ailab.gnu.ac.kr/) @ Gyeongsang National University, Computer Science and Engineering.
 
 ### Introduction
-I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE", such as simultaneous localization and mapping (SLAM) and autonomous driving system. My dream just starts from these movies: 'Iron Man' and 'Captain America: The Winter Soldier' and 'Avengers'. I hope the technologies in the movie come true.
+I'm interested in Recognizing, Understanding, and Utilizing the "REAL WORLD SPACE", such as simultaneous localization and mapping (SLAM) and autonomous driving systems. My dream just starts from these movies: *Iron Man*, *Captain America: The Winter Soldier*, and *The Avengers*. I hope the technologies in these movies come true.
 
 ### Tech Skills and Values
-- Pursuing clean environments using Docker and Anaconda for multiple CUDA, external library dependencies.
-- Pursuing easy-to-read code for everyone.
-- Middle Level Comprehension and Development about SLAM systems.
-- Pytorch for Deep Learning (better with ChatGPT)
-- Applications based on Mediapipe(Human Pose and Hand Pose Estimation)
-- Familiar OS: Windows(10+), Ubuntu(18.04+).
-- Python based fast development skill for quick and simple tests and visualizations. (prefer 3.6+)
-- C++ based development if faster performance is required. (prefer C++14+)
-- Unity(C#) based AR system, 3D Visualization. (familiar with camera model such as in/extrinsic parameters)
-- FastAPI based frontend/backend development with deployment.
+- Building clean environments using Docker and Anaconda for managing multiple CUDA versions and external library dependencies.
+- Writing easy-to-read code that is accessible to everyone.
+- Intermediate level understanding and development of SLAM systems.
+- Experienced with Pytorch for deep learning (enhanced with ChatGPT).
+- Developing applications based on Mediapipe (e.g., Human Pose and Hand Pose Estimation).
+- Familiar with OS: Windows (10+), Ubuntu (18.04+).
+- Proficient in Python for fast development, testing, and visualization (prefer Python 3.6+).
+- C++ development for high-performance applications (prefer C++14+).
+- Experienced with Unity (C#) for AR systems and 3D visualization (familiar with camera models, including intrinsic and extrinsic parameters).
+- FastAPI-based front-end/back-end development and deployment.
 
 ### Papers (links will be updated soon)
-- Shrunken Reality: Augmenting Real-World Contexts in Real-Time on Realistic Miniature Dioramas(SIGGRAPH ASIA 2024, Short Paper)
-- Finger-Pointing Interface for Human Gesture Recognition Based on Real-Time Geometric Comprehension(SIGGRAPH ASIA 2024, Poster)
-- SLAM-Based Illegal Parking Detection System(SIGGRAPH ASIA 2024, Poster)
+- **Shrunken Reality**: Augmenting Real-World Contexts in Real-Time on Realistic Miniature Dioramas (SIGGRAPH ASIA 2024, Short Paper)
+- **Finger-Pointing Interface for Human Gesture Recognition Based on Real-Time Geometric Comprehension** (SIGGRAPH ASIA 2024, Poster)
+- **SLAM-Based Illegal Parking Detection System** (SIGGRAPH ASIA 2024, Poster)
+
 
 ![](./profile-3d-contrib/profile-season.svg)
 

@@ -1,6 +1,6 @@
 ### Contact
-Email : wjdchs0129@gnu.ac.kr / leeminjae0129@gmail.com
-Location : AI Lab(https://ailab.gnu.ac.kr/) @ Gyeongsang National University, Computer Science and Engineering.
+- Email : wjdchs0129@gnu.ac.kr / leeminjae0129@gmail.com
+- Location : AI Lab(https://ailab.gnu.ac.kr/) @ Gyeongsang National University, Computer Science and Engineering.
 
 ### Introduction
 I'm interested in Recognizing, Understanding and Utilizing the "REAL WORLD SPACE", such as simultaneous localization and mapping (SLAM) and autonomous driving system. My dream just starts from these movies: 'Iron Man' and 'Captain America: The Winter Soldier' and 'Avengers'. I hope the technologies in the movie come true.

@@ -37,7 +37,7 @@ Hi, I’m Minjae Lee. Inspired by the cool tech in movies like Iron Man and The 
 3D visual perception for autonomous driving system.
 
 
-![](./profile-3d-contrib/profile-season.svg)
+<!--![](./profile-3d-contrib/profile-season.svg)-->
 
 
 <!--

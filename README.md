@@ -3,7 +3,7 @@
 - Location: [APEX Lab](https://apex.gnu.ac.kr/) @ Gyeongsang National University, Dept of Computer Science and Engineering.
 
 ### Introduction
-Hi, I’m Minjae Lee. Inspired by the cool tech in movies like Iron Man and The Avengers, I want to create systems, such as AI and autonomous driving, that can truly see and understand what’s going on in the real world. (a.k.a. Visual Perception)
+Hi, I'm Minjae Lee. Inspired by the cool technologies seen in movies like Iron Man and The Avengers, I want to create systems that can see and understand what's actually happening in the real world, like AI and autonomous driving, and that benefit humans.
 
 ### Publications
 - https://orcid.org/0009-0005-2796-3207

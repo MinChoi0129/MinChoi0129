@@ -3,4 +3,4 @@
 <a href="https://www.linkedin.com/in/minjae-lee-9122bb252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/MinChoi0129"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 
-I'm Minjae Lee, a Robotics Researcher focusing on spatial and temporal understanding in computers.
+I'm Minjae Lee, an AI Robotics Researcher focusing on spatial and temporal understanding in computers.
